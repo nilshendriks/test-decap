@@ -14,5 +14,9 @@
     "@astrojs/sitemap": "^3.2.1",
     "astro": "^5.1.1",
     "decap-cms-app": "^3.4.0"
+  },
+  "devDependencies": {
+    "@stackbit/cms-git": "^1.0.31",
+    "@stackbit/types": "^2.1.12"
   }
 }

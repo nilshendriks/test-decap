@@ -1,4 +1,5 @@
 ---
+type: post
 layout: blog
 title: "First post"
 description: "Lorem ipsum dolor sit amet"
